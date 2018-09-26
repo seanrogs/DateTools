@@ -15,11 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "908837C81B637C240063096B"
-<<<<<<< HEAD:Examples/DateToolsExample/DateToolsExample.xcodeproj/xcshareddata/xcschemes/DateTools.xcscheme
-               BuildableName = "DateTools iOS.framework"
-=======
                BuildableName = "DateTools.framework"
->>>>>>> swift:DateTools/Examples/DateToolsExample/DateToolsExample.xcodeproj/xcshareddata/xcschemes/DateTools.xcscheme
                BlueprintName = "DateTools iOS"
                ReferencedContainer = "container:DateToolsExample.xcodeproj">
             </BuildableReference>
@@ -61,11 +57,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "908837C81B637C240063096B"
-<<<<<<< HEAD:Examples/DateToolsExample/DateToolsExample.xcodeproj/xcshareddata/xcschemes/DateTools.xcscheme
-            BuildableName = "DateTools iOS.framework"
-=======
             BuildableName = "DateTools.framework"
->>>>>>> swift:DateTools/Examples/DateToolsExample/DateToolsExample.xcodeproj/xcshareddata/xcschemes/DateTools.xcscheme
             BlueprintName = "DateTools iOS"
             ReferencedContainer = "container:DateToolsExample.xcodeproj">
          </BuildableReference>
@@ -87,11 +79,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "908837C81B637C240063096B"
-<<<<<<< HEAD:Examples/DateToolsExample/DateToolsExample.xcodeproj/xcshareddata/xcschemes/DateTools.xcscheme
-            BuildableName = "DateTools iOS.framework"
-=======
             BuildableName = "DateTools.framework"
->>>>>>> swift:DateTools/Examples/DateToolsExample/DateToolsExample.xcodeproj/xcshareddata/xcschemes/DateTools.xcscheme
             BlueprintName = "DateTools iOS"
             ReferencedContainer = "container:DateToolsExample.xcodeproj">
          </BuildableReference>
@@ -109,11 +97,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "908837C81B637C240063096B"
-<<<<<<< HEAD:Examples/DateToolsExample/DateToolsExample.xcodeproj/xcshareddata/xcschemes/DateTools.xcscheme
-            BuildableName = "DateTools iOS.framework"
-=======
             BuildableName = "DateTools.framework"
->>>>>>> swift:DateTools/Examples/DateToolsExample/DateToolsExample.xcodeproj/xcshareddata/xcschemes/DateTools.xcscheme
             BlueprintName = "DateTools iOS"
             ReferencedContainer = "container:DateToolsExample.xcodeproj">
          </BuildableReference>
