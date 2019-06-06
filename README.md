@@ -57,6 +57,10 @@ Objective-C (Legacy)
 
 <code>pod 'DateTools'</code>
 
+**Carthage**
+
+<code>github sarah-j-smith == 4.0.1</code>
+
 **Manual Installation**
 
 All the classes required for DateTools are located in the DateTools folder in the root of this repository. They are listed below:

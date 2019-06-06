@@ -1,6 +1,5 @@
 # Xcode
-.DS_Store
-*/build/*
+build/
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -10,13 +9,22 @@
 *.perspectivev3
 !default.perspectivev3
 xcuserdata
-profile
+*.xccheckout
 *.moved-aside
 DerivedData
-.idea/
 *.hmap
-*.xccheckout
-.build/
+*.ipa
+*.xcuserstate
+.DS_Store
 
-#CocoaPods
-Pods
+# Carthage
+Carthage
+
+#Fastlane
+fastlane/report.xml
+fastlane/test_output
+fastlane/epcmobile-mockserver
+fastlane/output
+/package-lock.json
+test_outputs
+fastlane/nohup.out
